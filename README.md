@@ -6,6 +6,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luridarmawan&layout=compact&hide=html,css" width="45%">
 </op>
 
+### Repositori Pilihan:
+
+- Carik
+  - website: [carik.id](https://carik.id)
+  - repo: [github.com/luridarmawan/Carik](https://github.com/luridarmawan/Carik)
+- FastPlaz
+  - website: [fastplaz.com](https://fastplaz.com)
+  - repo: [github.com/fastplaz/fastplaz](https://github.com/fastplaz/fastplaz)
+  - dok: [fastplaz.github.io](https://fastplaz.github.io)
+- Simple NLP
+  - repo: [github.com/luridarmawan/SimpleAI](https://github.com/luridarmawan/SimpleAI)
+- StemmingWord
+  - repo: [github.com/luridarmawan/StemmingWord](https://github.com/luridarmawan/StemmingWord)
+
+
+
 
 <!--
 **luridarmawan/luridarmawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
