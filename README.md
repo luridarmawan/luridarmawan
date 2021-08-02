@@ -11,6 +11,7 @@
 - Carik
   - website: [carik.id](https://carik.id)
   - repo: [github.com/luridarmawan/Carik](https://github.com/luridarmawan/Carik)
+  - ecosystem: [https://github.com/CarikBot/ecosystem/](https://github.com/CarikBot/ecosystem/)
 - FastPlaz
   - website: [fastplaz.com](https://fastplaz.com)
   - repo: [github.com/fastplaz/fastplaz](https://github.com/fastplaz/fastplaz)
