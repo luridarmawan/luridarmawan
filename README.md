@@ -22,6 +22,11 @@
   - repo: [github.com/luridarmawan/StemmingWord](https://github.com/luridarmawan/StemmingWord)
 - Wrapper
   - [Whatsapp Wrapper with Docker](https://github.com/luridarmawan/whatsapp-bot-docker)
+- Docker
+  - [FastPlaz Docker](https://github.com/luridarmawan/fastplaz-docker)
+  - [Free Pascal Docker](https://github.com/luridarmawan/freepascal-docker)
+  - [Nodejs Docker](https://github.com/luridarmawan/node-docker)
+  - [Whatsapp Wrapper with Docker](https://github.com/luridarmawan/whatsapp-bot-docker)
 
 
 <!--
