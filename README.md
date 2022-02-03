@@ -8,7 +8,7 @@
 
 ### Repositori Pilihan:
 
-- Carik
+- Carik Bot (ChatBot)
   - website: [carik.id](https://carik.id)
   - repo: [github.com/luridarmawan/Carik](https://github.com/luridarmawan/Carik)
   - ecosystem: [https://github.com/CarikBot/ecosystem/](https://github.com/CarikBot/ecosystem/)
@@ -20,8 +20,8 @@
   - repo: [github.com/luridarmawan/SimpleAI](https://github.com/luridarmawan/SimpleAI)
 - StemmingWord
   - repo: [github.com/luridarmawan/StemmingWord](https://github.com/luridarmawan/StemmingWord)
-
-
+- Wrapper
+  - [Whatsapp Wrapper with Docker](https://github.com/luridarmawan/whatsapp-bot-docker)
 
 
 <!--
