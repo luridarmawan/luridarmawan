@@ -6,6 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luridarmawan&layout=compact&hide=html,css" width="45%">
 </op>
 
+![Thropy](https://github-profile-trophy.vercel.app/?username=luridarmawan)
+
 ### Repositori Pilihan:
 
 - Carik Bot (ChatBot)
@@ -28,8 +30,6 @@
   - [Nodejs Docker](https://github.com/luridarmawan/node-docker)
   - [Whatsapp Wrapper with Docker](https://github.com/luridarmawan/whatsapp-bot-docker)
 
-
-![Thropy](https://github-profile-trophy.vercel.app/?username=luridarmawan)
 
 
 
