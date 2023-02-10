@@ -29,6 +29,10 @@
   - [Whatsapp Wrapper with Docker](https://github.com/luridarmawan/whatsapp-bot-docker)
 
 
+![Thropy](https://github-profile-trophy.vercel.app/?username=luridarmawan)
+
+
+
 <!--
 **luridarmawan/luridarmawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
