@@ -27,6 +27,8 @@
 - Docker
   - [FastPlaz Docker](https://github.com/luridarmawan/fastplaz-docker)
   - [Free Pascal Docker](https://github.com/luridarmawan/freepascal-docker)
+  - [Docker Image for Apache and PHP 8.2 with Composer & Extensions](https://github.com/luridarmawan/docker-php-apache)
+  - [Docker Image for Nginx and PHP 8.2 with Composer & Extensions](https://github.com/luridarmawan/docker-php-nginx)
   - [Nodejs Docker](https://github.com/luridarmawan/node-docker)
   - [Whatsapp Wrapper with Docker](https://github.com/luridarmawan/whatsapp-bot-docker)
 
