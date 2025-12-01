@@ -20,6 +20,8 @@
   - repo: [github.com/luridarmawan/SimpleAI](https://github.com/luridarmawan/SimpleAI)
 - StemmingWord
   - repo: [github.com/luridarmawan/StemmingWord](https://github.com/luridarmawan/StemmingWord)
+- Smart CCTV Surveillance
+  - repo: [github.com/luridarmawan/smart-cctv-surveillance](https://github.com/luridarmawan/smart-cctv-surveillance)
 - Wrapper
   - [Whatsapp Wrapper with Docker](https://github.com/luridarmawan/whatsapp-bot-docker)
 - Docker
