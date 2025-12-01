@@ -8,7 +8,10 @@
 - Carik Bot (ChatBot)
   - website: [carik.id](https://carik.id)
   - repo: [github.com/luridarmawan/Carik](https://github.com/luridarmawan/Carik)
-  - ecosystem: [https://github.com/CarikBot/ecosystem/](https://github.com/CarikBot/ecosystem/)
+  - ecosystem: [github.com/CarikBot/ecosystem/](https://github.com/CarikBot/ecosystem/)
+- Boilerplate
+  - Dashboard AI: [github.com/luridarmawan/dashboard-ai-boilerplate](https://github.com/luridarmawan/dashboard-ai-boilerplate)
+  - API with Golang: [github.com/luridarmawan/api-boilerplate-go](https://github.com/luridarmawan/api-boilerplate-go) 
 - FastPlaz
   - website: [fastplaz.com](https://fastplaz.com)
   - repo: [github.com/fastplaz/fastplaz](https://github.com/fastplaz/fastplaz)
